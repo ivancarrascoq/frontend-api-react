@@ -6,6 +6,7 @@ import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import GMaps from "./components/googlemaps";
 import Maps from "./components/map";
+import MapTest from "./components/mapTest";
 
 // ReactDOM.render(<App />, document.getElementById("root"));
 ReactDOM.render(<Maps />, document.getElementById("root"));
